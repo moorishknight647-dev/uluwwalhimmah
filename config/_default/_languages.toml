@@ -1,13 +1,18 @@
+# Place these lines at the absolute top of the file
+[sidebar]
+    enabled = true
+
+[sidebar.avatar]
+    enabled = true
+    local = true
+
+# Your multilingual blocks continue below...
 [en]
     languageName = "English"
     title = "Uluww Al-Himmah"
     weight = 1
 
-    [en.params.sidebar]
-        emoji = ""
-        subtitle = "An Islamic archive dedicated to teaching the Islamic creed and law from the Qur'an and Sunnah with the understanding of the Salaf, and defending the scholars, and the Religion of Abraham, and refuting the heathen infidels and the misguided heretics and sects."
-
-    [en.params.sidebar.avatar]
-        enabled = true
-        local = true
-        src = "img/static/img/87f9072d55f2ff16cfc420d6d07129bc.jpg"
+    [en.params.author]
+        name = "Uluww Al-Himmah"
+        bio = "An Islamic archive dedicated to teaching the Islamic creed and law from the Qur'an and Sunnah with the understanding of the Salaf, and defending the scholars, and the Religion of Abraham, and refuting the heathen infidels and the misguided heretics and sects."
+        avatar = "img/avatar.png"
