@@ -1,6 +1,8 @@
-# Rename this file to languages.toml to enable multilingual support
 [en]
-    label     = "English"
-    direction = "ltr"
-    title     = "Example Site"
-    weight    = 1
+    languageName = "English"
+    title = "Uluww Al-Himmah"
+    weight = 1
+
+    [en.params.author]
+        name = "Uluww Al-Himmah"
+        bio = "An Islamic archive dedicated to teaching the Islamic creed and law from the Qur'an and Sunnah with the understanding of the Salaf, and defending the scholars, and the Religion of Abraham, and refuting the heathen infidels and the misguided heretics and sects."
