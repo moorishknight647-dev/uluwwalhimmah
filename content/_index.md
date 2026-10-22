@@ -7,8 +7,8 @@ menu:
             icon: home
 ---
 ---
-title: Welcome to Ulūww al-Himmah
-layout: single
+Welcome to Ulūww al-Himmah
+
 ---
 
 <div style="text-align: center; margin: 2rem 0; padding: 2rem; background: var(--card-background); border-radius: var(--card-border-radius); box-shadow: var(--shadow-l1);">
