@@ -3,6 +3,11 @@
     title = "Uluww Al-Himmah"
     weight = 1
 
-    [en.params.author]
-        name = "Uluww Al-Himmah"
-        bio = "An Islamic archive dedicated to teaching the Islamic creed and law from the Qur'an and Sunnah with the understanding of the Salaf, and defending the scholars, and the Religion of Abraham, and refuting the heathen infidels and the misguided heretics and sects."
+    [en.params.sidebar]
+        emoji = ""
+        subtitle = "An Islamic archive dedicated to teaching the Islamic creed and law from the Qur'an and Sunnah with the understanding of the Salaf, and defending the scholars, and the Religion of Abraham, and refuting the heathen infidels and the misguided heretics and sects."
+
+    [en.params.sidebar.avatar]
+        enabled = true
+        local = true
+        src = "img/avatar.png"
