@@ -18,9 +18,9 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    avatar   = "img/avatar.png"
+    emoji    = "🏴"
+    subtitle = "An Islamic archive dedicated to teaching the Islamic creed and law from the Qur'an and Sunnah with the understanding of the Salaf, and defending the scholars, and the Religion of Abraham, and refuting the heathen infidels and the misguided heretics and sects."
+    avatar   = "img/87f9072d55f2ff16cfc420d6d07129bc.jpg"
 
 [article]
     headingAnchor = false
