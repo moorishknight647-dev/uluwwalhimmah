@@ -38,20 +38,23 @@ Regarding his status in hadith, we agree he is weak, due to what the imams of al
 
 *Daleel*
 
->>> **Abū Dāwūd al-Sijistānī** said:
-"May Allah grant mercy upon Abu Hanifa, (he) was an imam."
+**Abū Dāwūd al-Sijistānī** said:
 
--# *Al-Intiqāʾ p.32* by **Ibn ʿAbd al-Barr**
+> "May Allah grant mercy upon Abu Hanifa, (he) was an imam."
 
->>> **an-Nasāʾī** said:
+**Al-Intiqāʾ p.32** by **Ibn ʿAbd al-Barr**
+
+**an-Nasāʾī** said:
+
 "He is not strong in hadith; he made many mistakes and errors despite his limited narrations."
 
--# *Kitāb al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163* by **Ibn al-Jawzī**
+**al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163** by **Ibn al-Jawzī**
 
->>> **Ibn ʿĀdī** said:
-"Most of what he narrates is erroneous and misread, though he has some sound hadiths, but he is not among the scholars of hadith."
+**Ibn ʿĀdī** said:
 
--# *Kitāb al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163* by **Ibn al-Jawzī**
+> "Most of what he narrates is erroneous and misread, though he has some sound hadiths, but he is not among the scholars of hadith."
+
+**Kitāb al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163* by **Ibn al-Jawzī**
 
 Yahya ibn Ma'in said: "There is nothing wrong with him; he was not accused of lying."
 
