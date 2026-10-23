@@ -40,8 +40,9 @@ Regarding his status in hadith, we agree he is weak, due to what the imams of al
 
 **Abū Dāwūd al-Sijistānī** said:
 
->>> "May Allah grant mercy upon Abu Hanifa, (he) was an imam."
-**Al-Intiqāʾ p.32** by **Ibn ʿAbd al-Barr**
+> "May Allah grant mercy upon Abu Hanifa, (he) was an imam."
+>
+> **Al-Intiqāʾ p.32** by **Ibn ʿAbd al-Barr**
 
 **an-Nasāʾī** said:
 
