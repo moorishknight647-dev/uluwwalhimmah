@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon        = "img/175f1921d4000334336de81b9991ed8d.3da2e50f.png"
+favicon        = "/img/175f1921d4000334336de81b9991ed8d.3da2e50f.png"
 
 # Accepted values: "default", "lastmod"
 # default = see https://gohugo.io/quick-reference/glossary/#default-sort-order
