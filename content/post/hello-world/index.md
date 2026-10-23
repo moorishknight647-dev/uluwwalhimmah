@@ -3,7 +3,7 @@ title: Defending al-Nuʿmān ibn Thābit From Tajahhum and Kufr
 description: "Abū Ḥanīfa was accused of many things, we shall unravel his true aqeedah, and defend him from the accusations of his enemies and the modern-day Haddaddiya"
 slug: defending-abu-hanifa
 date: 2026-10-22 00:00:00+0000
-image: images.png
+image: 12aad6ca-c11a-4792-a544-3036fa21ef09.png
 categories:
   - Refutations
 tags:
