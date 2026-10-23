@@ -22,6 +22,7 @@ And peace and blessings be upon his Prophet Muhammmad, and all of his family and
 ### 1. Biography of the Imam
 
 al-Nuʿmān ibn Thābit ibn Zūṭā ibn Marzubān al-Taymī al-Kūfī, commonly known as **Abū Ḥanīfa (80–150 AH)** was one of the four great imams of Islam and the founder of the Hanafi school of Islamic jurisprudence. He was born and raised in Kufa, where he became known as a jurist and hadith scholars. 
+
 He studied under Ḥammād ibn Abī Sulaymān for eighteen years, and among his most famous students were Abū Yūsuf and Muḥammad ibn al-Ḥasan al-Shaybānī.
 
 ### 2. Clarifying the Allegations
@@ -38,7 +39,9 @@ Regarding his status in hadith, we agree he is weak, due to what the imams of al
 
 *Daleel*
 Al-Nasa'i said: "He is not strong in hadith; he made many mistakes and errors despite his limited narrations." 
+
 Ibn 'Adi said: "Most of what he narrates is erroneous and misread, though he has some sound hadiths, but he is not among the scholars of hadith.
+
 Yahya ibn Ma'in said: "There is nothing wrong with him; he was not accused of lying."
 
 **2. His Aqeedah**
@@ -50,6 +53,7 @@ Abū Ḥanīfa was a Murj'i, but not an extreme Murj'i, he was part of the Murj'
 *Daleel*
 
 Abū al-Ḥasan al-Ashʿarī said: The ninth sect of the Murj'iah, Abū Ḥanīfa and his companions.
+
 Al-Bukhārī said: He was a Murjiʾ; they refrained from him, his opinion, and his hadith.
 
 *Regarding His Tajahhum*
@@ -60,6 +64,7 @@ Abū Ḥanīfa was not a Jahmi, and he spoke the Qur'an was uncreated.
 
 ʿAbd Allāh ibn al-Mubārak said: 
 By Allah, Abū Ḥanīfa did not die believing in the createdness of the Qur’an, nor did he profess that belief as his religion.
+
 And he said: "Jahm was mentioned in the gathering of Abū Ḥanīfah, so he asked: 'What does he say?' They replied: 'He says: The Qurʾān is created.' Thereupon, Abū Ḥanīfah recited: 'Grave is the word that comes out of their mouths; they speak not except a lie.'
 
 Muhammad bin Sa'id bin Sabiq said: I asked Abu Yusuf, so I said: Did Abū Ḥanīfah say the Qur'an was created? He said: Allah forbid! I do not say that either. So I said: Did he hold the opinion of Jahm? He said: Allah forbid! I do not say that either.
