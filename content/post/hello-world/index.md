@@ -1,7 +1,7 @@
 ---
 title: Defending al-Nuʿmān ibn Thābit From Tajahhum and Kufr
 description: "Abū Ḥanīfa was accused of many things, we shall unravel his true aqeedah, and defend him from the accusations of his enemies and the modern-day Haddaddiya"
-slug: hello-world
+slug: defending-abu-hanifa
 date: 2026-10-22 00:00:00+0000
 image: images.png
 categories:
@@ -40,7 +40,7 @@ Regarding his status in hadith, we agree he is weak, due to what the imams of al
 
 **Abū Dāwūd al-Sijistānī** said:
 
-> "May Allah grant mercy upon Abu Hanifa, (he) was an imam."
+>>> "May Allah grant mercy upon Abu Hanifa, (he) was an imam."
 
 **Al-Intiqāʾ p.32** by **Ibn ʿAbd al-Barr**
 
