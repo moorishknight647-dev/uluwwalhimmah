@@ -1,6 +1,6 @@
 ---
-title: Defending al-Nuʿmān ibn Thābit 
-description: Abū Ḥanīfa was accused of being a Jahmi, and being a murj'i, and being weak in hadith, we shall unravel his true aqeedah, and defend him from the accusations of his enemies and the modern-day Haddaddiya
+title: Defending al-Nuʿmān ibn Thābit From Tajahhum and Kufr
+description: **Abū Ḥanīfa** was accused of many things, we shall unravel his true aqeedah, and defend him from the accusations of his enemies and the modern-day Haddaddiya
 slug: hello-world
 date: 2026-10-22 00:00:00+0000
 image: images.png
@@ -17,13 +17,13 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 In the name of Allah, the Most Gracious, the Most Merciful
 
-And peace and blessings be upon his Prophet Muhammmad, and all of his family and companions and wives.
+And peace and blessings be upon his Prophet Muhammad, and all of his family and companions and wives.
 
 ### 1. Biography of the Imam
 
-al-Nuʿmān ibn Thābit ibn Zūṭā ibn Marzubān al-Taymī al-Kūfī, commonly known as **Abū Ḥanīfa (80–150 AH)** was one of the four great imams of Islam and the founder of the Hanafi school of Islamic jurisprudence. He was born and raised in Kufa, where he became known as a jurist and hadith scholars. 
+*al-Nuʿmān ibn Thābit ibn Zūṭā ibn Marzubān al-Taymī al-Kūfī*, commonly known as **Abū Ḥanīfa (80–150 AH)** was one of the four great imams of Islam and the founder of the Hanafi school of Islamic jurisprudence. He was born and raised in Kufa, where he became known as a jurist and hadith scholar. 
 
-He studied under Ḥammād ibn Abī Sulaymān for eighteen years, and among his most famous students were Abū Yūsuf and Muḥammad ibn al-Ḥasan al-Shaybānī.
+He studied under **Ḥammād ibn Abī Sulaymān** for eighteen years, and among his most famous students were **Abū Yūsuf** and **Muḥammad ibn al-Ḥasan al-Shaybānī**.
 
 ### 2. Clarifying the Allegations
 
@@ -31,18 +31,35 @@ He studied under Ḥammād ibn Abī Sulaymān for eighteen years, and among his 
 
 ### 3. The True Aqeedah of Abū Ḥanīfa
 
-Let us analyze the aqeedah of Abū Ḥanīfa, and his status in hadith
+Let us analyze the aqeedah of **Abū Ḥanīfa**, and his status in hadith
 
 **1. His Status in Hadith**
 
-Regarding his status in hadith, we agree he is weak, due to what the imams of al-Jar'h wa al-Ta'dil spoke about him, saying he is weak in hadith. Some of his hadiths are sound, but he is not among the scholars of hadith, and though Ibn al-Mubarak praised him, it is known that he is weak however he was not a liar.
+Regarding his status in hadith, we agree he is weak, due to what the imams of al-Jar'h wa al-Ta'dil spoke about him, saying he is weak in hadith. Some of his hadiths are sound, but he is not among the scholars of hadith, and though Ibn al-Mubarak praised him, it is known that he is weak however he was not a liar. As well, **Abū Dāwūd** praised him.
 
 *Daleel*
-Al-Nasa'i said: "He is not strong in hadith; he made many mistakes and errors despite his limited narrations." 
 
-Ibn 'Adi said: "Most of what he narrates is erroneous and misread, though he has some sound hadiths, but he is not among the scholars of hadith.
+**Abū Dāwūd al-Sijistānī** said
+
+> May Allah grant mercy upon Abu Hanifa, (he) was an imam.
+
+ > (*Al-Intiqāʾ p.32** by **Ibn ʿAbd al-Barr*)
+
+**an-Nasāʾī** said: 
+
+> "He is not strong in hadith; he made many mistakes and errors despite his limited narrations."
+
+ > *Kitāb al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163** by **Ibn al-Jawzī*
+
+**Ibn ʿĀdī** said:*
+
+> "Most of what he narrates is erroneous and misread, though he has some sound hadiths, but he is not among the scholars of hadith.
+
+ > *Kitāb al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163** by **Ibn al-Jawzī*
 
 Yahya ibn Ma'in said: "There is nothing wrong with him; he was not accused of lying."
+
+He was weak but only in memorization, and was not a fabricator or liar.
 
 **2. His Aqeedah**
 
@@ -72,6 +89,7 @@ Muhammad bin Sa'id bin Sabiq said: I asked Abu Yusuf, so I said: Did Abū Ḥan�
 Abu Hanifa said in his wasiyyah: We acknowledge that the Quran is the word of Allah, uncreated, His revelation, and His sending. 
 
 **4. What About the Salaf Narrations Found In Kitab as-Sunnah, Tarikh Baghdad, and more that hurt Abū Ḥanīfah?**
+
 
 I will analyze it, and this article is still not over because I will try to analyze all of the isnads.
 
