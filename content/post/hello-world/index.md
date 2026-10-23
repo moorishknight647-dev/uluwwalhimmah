@@ -28,15 +28,15 @@ He studied under **Ḥammād ibn Abī Sulaymān** for eighteen years, and among 
 
 **Abū Ḥanīfa** is accused of **Tajahhum**, being **weak in hadith**, and **Irja'** and **zandaqah** and **kufr**.
 
-## The True Aqeedah of Abū Ḥanīfa
+## The True Aqeedah and Status of Abū Ḥanīfa
 
 Let us analyze the aqeedah of **Abū Ḥanīfa**, and his status in hadith
 
-**1. His Status in Hadith**
+### His Status in Hadith
 
 Regarding his status in hadith, we agree he is weak, due to what the imams of al-Jar'h wa al-Ta'dil spoke about him, saying he is weak in hadith. Some of his hadiths are sound, but he is not among the scholars of hadith, and though Ibn al-Mubarak praised him, it is known that he is weak however he was not a liar. As well, **Abū Dāwūd** praised him.
 
-**Daleel**
+#### Daleel
 
 **Abū Dāwūd al-Sijistānī** said:
 
@@ -62,23 +62,23 @@ Regarding his status in hadith, we agree he is weak, due to what the imams of al
 
 He was weak but only in memorization, and was not a fabricator or liar.
 
-**His Aqeedah**
+### His Aqeedah
 
-**Regarding his Irja'**
+#### Regarding his Irja'
 
 Abū Ḥanīfa was a Murj'i, but not an extreme Murj'i, he was part of the Murj'i al-Fuqaha, a sect of the Murj'iah that appeared in Kufa, and one of them is even the teacher of Abū Ḥanīfa, Ḥammād ibn Abī Sulaymān, the Murj'i al-Fuqaha was not takfirable, as they still believed that sinners were subject to punishment.
 
-**Daleel**
+##### Daleel
 
 Abū al-Ḥasan al-Ashʿarī said: The ninth sect of the Murj'iah, Abū Ḥanīfa and his companions.
 
 Al-Bukhārī said: He was a Murjiʾ; they refrained from him, his opinion, and his hadith.
 
-*Regarding His Tajahhum*
+#### Regarding His Tajahhum
 
 Abū Ḥanīfa was not a Jahmi, and he spoke the Qur'an was uncreated.
 
-**Daleel**
+##### Daleel
 
 ʿAbd Allāh ibn al-Mubārak said: 
 By Allah, Abū Ḥanīfa did not die believing in the createdness of the Qur’an, nor did he profess that belief as his religion.
