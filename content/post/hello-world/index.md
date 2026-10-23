@@ -26,7 +26,7 @@ He studied under **Ḥammād ibn Abī Sulaymān** for eighteen years, and among 
 
 ### 2. Clarifying the Allegations
 
-**Abū Ḥanīfa** is accused of **Tajahhum**, being **weak in hadith**, and **Irja'**.
+**Abū Ḥanīfa** is accused of **Tajahhum**, being **weak in hadith**, and **Irja'** and **zandaqah** and **kufr**.
 
 ### 3. The True Aqeedah of Abū Ḥanīfa
 
@@ -41,7 +41,6 @@ Regarding his status in hadith, we agree he is weak, due to what the imams of al
 **Abū Dāwūd al-Sijistānī** said:
 
 >>> "May Allah grant mercy upon Abu Hanifa, (he) was an imam."
-
 **Al-Intiqāʾ p.32** by **Ibn ʿAbd al-Barr**
 
 **an-Nasāʾī** said:
