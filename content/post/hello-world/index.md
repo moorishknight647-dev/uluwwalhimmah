@@ -18,17 +18,17 @@ In the name of Allah, the Most Gracious, the Most Merciful
 
 And peace and blessings be upon his Prophet Muhammad, and all of his family and companions and wives.
 
-#### 1. Biography of the Imam
+#### Biography of the Imam
 
 *al-Nuʿmān ibn Thābit ibn Zūṭā ibn Marzubān al-Taymī al-Kūfī*, commonly known as **Abū Ḥanīfa (80–150 AH)** was one of the four great imams of Islam and the founder of the Hanafi school of Islamic jurisprudence. He was born and raised in Kufa, where he became known as a jurist and hadith scholar. 
 
 He studied under **Ḥammād ibn Abī Sulaymān** for eighteen years, and among his most famous students were **Abū Yūsuf** and **Muḥammad ibn al-Ḥasan al-Shaybānī**.
 
-#### 2. Clarifying the Allegations
+#### Clarifying the Allegations
 
 **Abū Ḥanīfa** is accused of **Tajahhum**, being **weak in hadith**, and **Irja'** and **zandaqah** and **kufr**.
 
-#### 3. The True Aqeedah of Abū Ḥanīfa
+#### The True Aqeedah of Abū Ḥanīfa
 
 Let us analyze the aqeedah of **Abū Ḥanīfa**, and his status in hadith
 
