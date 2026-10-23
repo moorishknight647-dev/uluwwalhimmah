@@ -1,18 +1,17 @@
 ---
 title: Defending al-Nuʿmān ibn Thābit From Tajahhum and Kufr
-description: **Abū Ḥanīfa** was accused of many things, we shall unravel his true aqeedah, and defend him from the accusations of his enemies and the modern-day Haddaddiya
+description: "Abū Ḥanīfa was accused of many things, we shall unravel his true aqeedah, and defend him from the accusations of his enemies and the modern-day Haddaddiya"
 slug: hello-world
 date: 2026-10-22 00:00:00+0000
 image: images.png
 categories:
-    - Refutations
+  - Refutations
 tags:
-    - Abū Ḥanīfa
-    - Jahmiyyah
-    - Irja'
-    - Defending Scholars
-
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+  - Abū Ḥanīfa
+  - Jahmiyyah
+  - Irja'
+  - Defending Scholars
+weight: 1
 ---
 
 In the name of Allah, the Most Gracious, the Most Merciful
