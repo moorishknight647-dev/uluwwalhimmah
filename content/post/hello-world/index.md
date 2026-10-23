@@ -3,7 +3,7 @@ title: Defending al-Nuʿmān ibn Thābit
 description: Abū Ḥanīfa was accused of being a Jahmi, and being a murj'i, and being weak in hadith, we shall unravel his true aqeedah, and defend him from the accusations of his enemies and the modern-day Haddaddiya
 slug: hello-world
 date: 2026-10-22 00:00:00+0000
-image: cover.jpg
+image: images.png
 categories:
     - Refutations
 tags:
@@ -26,15 +26,47 @@ He studied under Ḥammād ibn Abī Sulaymān for eighteen years, and among his 
 
 ### 2. Clarifying the Allegations
 
-**Abu Hanifa** is accused of **Tajahhum**, being **weak in hadith**, and **Irja'**.
+**Abū Ḥanīfa** is accused of **Tajahhum**, being **weak in hadith**, and **Irja'**.
 
-### 3. Regarding His Tajahhum
+### 3. The True Aqeedah of Abū Ḥanīfa
 
-I have gathered a couple of texts, mainly from **‘Abdullāh bin Aḥmad bin Ḥanbal** in his **Kitāb as-Sunnah**, you may find them in this document
-https://docs.google.com/document/d/1aqpNie6npdQ53n81sYjbh5Y-DUoXrMPBKbYhPPwx9d8/edit?usp=sharing
+Let us analyze the aqeedah of Abū Ḥanīfa, and his status in hadith
 
+**1. His Status in Hadith**
 
+Regarding his status in hadith, we agree he is weak, due to what the imams of al-Jar'h wa al-Ta'dil spoke about him, saying he is weak in hadith. Some of his hadiths are sound, but he is not among the scholars of hadith, and though Ibn al-Mubarak praised him, it is known that he is weak however he was not a liar.
 
-ant a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+*Daleel*
+Al-Nasa'i said: "He is not strong in hadith; he made many mistakes and errors despite his limited narrations." 
+Ibn 'Adi said: "Most of what he narrates is erroneous and misread, though he has some sound hadiths, but he is not among the scholars of hadith.
+Yahya ibn Ma'in said: "There is nothing wrong with him; he was not accused of lying."
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+**2. His Aqeedah**
+
+*Regarding his Irja'*
+
+Abū Ḥanīfa was a Murj'i, but not an extreme Murj'i, he was part of the Murj'i al-Fuqaha, a sect of the Murj'iah that appeared in Kufa, and one of them is even the teacher of Abū Ḥanīfa, Ḥammād ibn Abī Sulaymān, the Murj'i al-Fuqaha was not takfirable, as they still believed that sinners were subject to punishment.
+
+*Daleel*
+
+Abū al-Ḥasan al-Ashʿarī said: The ninth sect of the Murj'iah, Abū Ḥanīfa and his companions.
+Al-Bukhārī said: He was a Murjiʾ; they refrained from him, his opinion, and his hadith.
+
+*Regarding His Tajahhum*
+
+Abū Ḥanīfa was not a Jahmi, and he spoke the Qur'an was uncreated.
+
+*Daleel*
+
+ʿAbd Allāh ibn al-Mubārak said: 
+By Allah, Abū Ḥanīfa did not die believing in the createdness of the Qur’an, nor did he profess that belief as his religion.
+And he said: "Jahm was mentioned in the gathering of Abū Ḥanīfah, so he asked: 'What does he say?' They replied: 'He says: The Qurʾān is created.' Thereupon, Abū Ḥanīfah recited: 'Grave is the word that comes out of their mouths; they speak not except a lie.'
+
+Muhammad bin Sa'id bin Sabiq said: I asked Abu Yusuf, so I said: Did Abū Ḥanīfah say the Qur'an was created? He said: Allah forbid! I do not say that either. So I said: Did he hold the opinion of Jahm? He said: Allah forbid! I do not say that either.
+
+Abu Hanifa said in his wasiyyah: We acknowledge that the Quran is the word of Allah, uncreated, His revelation, and His sending. 
+
+**4. What About the Salaf Narrations Found In Kitab as-Sunnah, Tarikh Baghdad, and more that hurt Abū Ḥanīfah?**
+
+I will analyze it, and this article is still not over because I will try to analyze all of the isnads.
+
