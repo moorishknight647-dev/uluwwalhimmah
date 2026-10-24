@@ -72,25 +72,25 @@ He also said:
 
 **an-Nasāʾī** said:
 
-> "He is not strong in hadith; he made many mistakes and errors despite his limited narrations."
+> "He is not strong in ḥadīth; he made many mistakes and errors despite his limited narrations."
 >
 > **al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163** by **Ibn al-Jawzī**
 
 **Ibn ʿĀdī** said:
 
-> "Most of what he narrates is erroneous and misread, though he has some sound hadiths, but he is not among the scholars of hadith."
+> "Most of what he narrates is erroneous and misread, though he has some sound aḥādīth, but he is not among the scholars of ḥadīth."
 >
 > **al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163** by **Ibn al-Jawzī**
 
 **al-Bukhārī** said:
 
-> "They abandoned him, his opinions, and his hadith."
+> "They abandoned him, his opinions, and his ḥadīth."
 >
 > **al-Tārīkh al-Kabīr v.8 p.81** by **al-Bukhārī**
 
 **Ibn al-Mubārak** said: 
 
-> "Abū Ḥanīfah was poor in hadith."
+> "Abū Ḥanīfah was poor in ḥadīth."
 >
 > **al-Jarḥ wa-al-Taʿdīl v.8 p.444** by **Ibn Abī Ḥātim**
 
