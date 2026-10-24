@@ -50,6 +50,18 @@ Regarding his status in ḥadīth, many said he is weak (like the imāms of **Al
 >
 > **al-Sahm al-Muṣīb fī al-Radd ʻalā al-Khaṭīb p.99** by **Al-Malik al-Muʻaẓẓam ʻĪsā al-Ayyūbī**
 
+He also said:
+
+> "Trustworthy; I have not heard anyone declare him weak."
+>
+> **Al-Intiqā p.127ʾ** by **Ibn ʿAbd al-Barr**
+
+He also said:
+
+> "Abū Ḥanīfah was trustworthy. He would narrate a ḥadīth only when he had memorized it, and he would not narrate what he had not memorized."
+>
+> **Siyar Aʿlām al-Nubalā v.6 p.395** by **al-Dhahabī**
+
 **‘Alī ibn al-Madīnī** said:
 
 > "And he is trustworthy; there is nothing wrong with him."
@@ -68,9 +80,23 @@ Regarding his status in ḥadīth, many said he is weak (like the imāms of **Al
 
 > "Most of what he narrates is erroneous and misread, though he has some sound hadiths, but he is not among the scholars of hadith."
 >
-> **Kitāb al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163* by **Ibn al-Jawzī**
+> **al-Ḍuʿafāʾ wa-al-Matrūkīn v.3 p.163** by **Ibn al-Jawzī**
+
+**al-Bukhārī** said:
+
+> "They abandoned him, his opinions, and his hadith."
+>
+> **al-Tārīkh al-Kabīr v.8 p.81** by **al-Bukhārī**
+
+**Ibn al-Mubārak** said: 
+
+> "Abū Ḥanīfah was poor in hadith."
+>
+> **al-Jarḥ wa-al-Taʿdīl v.8 p.444** by **Ibn Abī Ḥātim**
 
 ### His Aqeedah
+
+He was a Murj'i al-Fuqah, and he affirmed that the Qur'an is uncreated, and was not a kafir
 
 #### Regarding his Irja'
 
